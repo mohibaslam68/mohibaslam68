@@ -1,6 +1,6 @@
 <!-- Banner / Greeting -->
-<h1 align="center">Hi 👋, I'm Mohib Aslam Khan</h1>
-<h3 align="center">A passionate web developer from Pakistan</h3>
+<h1 align="">Hi 👋, I'm Mohib Aslam Khan</h1>
+<h3 align="">A passionate web developer </h3>
 
 ---
 

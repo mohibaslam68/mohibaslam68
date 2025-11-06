@@ -17,12 +17,12 @@
 
 #### Languages and Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,bootstrap,tailwind " />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,bootstrap,tailwind,mysql " />
 </p>
 
 #### Tools and Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma" />
 </p>
 
 ---
@@ -46,10 +46,10 @@
 ### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohibaslam68" target="_blank">
+  <a href="https://www.linkedin.com/in/mohib-aslam-khan-bab21333a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mohibaslam68@gmail.com" target="_blank">
+  <a href="mailto:mohibaslamkhan91@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/mohibaslam68" target="_blank">
@@ -59,4 +59,3 @@
 
 ---
 
-⭐️ **From [mohibaslam68](https://github.com/mohibaslam68)**

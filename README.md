@@ -17,7 +17,7 @@
 
 #### Languages and Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,bootstrap,tailwind " />
 </p>
 
 #### Tools and Platforms  

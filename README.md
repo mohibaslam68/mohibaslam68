@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express, React, Node.js)**  
 - 💻 I love building creative, user-friendly web experiences  
 - 💬 Ask me about **JavaScript, React, and Frontend Development**  
-- 📫 How to reach me: **mohibaslam68@gmail.com**  
+- 📫 How to reach me: **mohibaslamkhan91@gmail.com**  
 - ⚡ Fun fact: I debug more than I sleep 😄  
 
 ---
@@ -17,7 +17,7 @@
 
 #### Languages and Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python," />
 </p>
 
 #### Tools and Platforms  
